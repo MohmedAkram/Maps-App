@@ -1,0 +1,10 @@
+Texas NewYork 500
+Texas Riyadh 200
+Riyadh NewYork 2452.1
+Riyadh Texas 200
+Riyadh Cairo 3000
+Cairo NewYork 29472.4
+Cairo Riyadh 3000
+NewYork Cairo 29472.4
+NewYork Riyadh 2452.1
+NewYork Texas 500
